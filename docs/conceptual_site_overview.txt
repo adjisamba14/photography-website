@@ -1,0 +1,28 @@
+
+Photography Company – Conceptual Site Overview
+
+Purpose
+- Provide a modern, responsive website to support customer engagement and ordering workflows for a small photography company (15 employees).
+
+Audience
+- New and existing customers booking sessions, viewing proofs, and ordering prints.
+
+Primary Use Cases (Prototype UI only)
+1) Customers browse services and pricing.
+2) Customers view sample galleries and proofs.
+3) Customers place photo orders via a cart UI (no live processing).
+4) Customers request touch‑ups and provide notes.
+5) Customers complete a mock checkout flow and see a confirmation page.
+6) Customers inquire via customer‑service chat UI (not live).
+
+Information Architecture (Top‑Level Pages)
+- Home, About, Services, Gallery, Booking, Touch‑Up, Cart, Checkout, Confirmation, FAQ, Contact, Privacy, Terms.
+
+Key UI Flows
+- Browse → Gallery → Add to Cart → Checkout → Confirmation.
+- Booking → Form submission (mock) → Confirmation.
+- Touch‑Up Request → Upload placeholder + notes (mock).
+
+Technology
+- Static HTML/CSS/JS with responsive layout.
+- No server‑side processing; flows are demonstrative only.

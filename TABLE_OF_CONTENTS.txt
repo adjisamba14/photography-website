@@ -1,0 +1,52 @@
+Table of Contents – Photography Company Website Prototype
+
+Root:
+- README.txt – File
+- about.html – File
+- assets – Folder
+- booking.html – File
+- cart.html – File
+- checkout.html – File
+- confirmation.html – File
+- contact.html – File
+- css – Folder
+- design – Folder
+- docs – Folder
+- faq.html – File
+- gallery.html – File
+- index.html – File
+- js – Folder
+- privacy.html – File
+- services.html – File
+- terms.html – File
+- touchup.html – File
+
+css/:
+- css/styles.css – CSS Stylesheet
+
+js/:
+- js/script.js – JavaScript
+
+assets/images/:
+- assets/images/photo_01.jpg – Image asset
+- assets/images/photo_02.jpg – Image asset
+- assets/images/photo_03.jpg – Image asset
+- assets/images/photo_04.jpg – Image asset
+- assets/images/photo_05.jpg – Image asset
+- assets/images/photo_06.jpg – Image asset
+- assets/images/photo_07.jpg – Image asset
+- assets/images/photo_08.jpg – Image asset
+- assets/images/photo_09.jpg – Image asset
+- assets/images/photo_10.jpg – Image asset
+- assets/images/photo_11.jpg – Image asset
+- assets/images/photo_12.jpg – Image asset
+
+design/wireframes/:
+- design/wireframes/wireframe_booking.png – Wireframe PNG
+- design/wireframes/wireframe_checkout.png – Wireframe PNG
+- design/wireframes/wireframe_gallery.png – Wireframe PNG
+- design/wireframes/wireframe_home.png – Wireframe PNG
+
+docs/:
+- docs/common_elements.txt – Documentation
+- docs/conceptual_site_overview.txt – Documentation

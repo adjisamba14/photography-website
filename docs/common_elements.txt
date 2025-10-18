@@ -1,0 +1,22 @@
+
+Common Elements – Navigation, Footer, Breadcrumbs, Color Usage, Image Library
+
+Navigation
+- Persistent top navigation with links to all primary pages. Current prototype includes 12+ pages.
+
+Footer
+- Site-wide footer with copyright, quick links (Privacy, Terms) and social placeholders.
+
+Breadcrumbs
+- Simple breadcrumb trail beneath the header on each page to clarify location within the site.
+
+Color Usage
+- Primary: #1a73e8 (buttons, emphasis)
+- Accent: #fbbc04 (highlights)
+- Background: #ffffff
+- Text: #111111
+- Colors kept accessible and minimal for readability; sufficient contrast for body text.
+
+Image Library
+- assets/images/photo_*.jpg placeholders.
+- Gallery grid uses responsive image tiles with object-fit for consistent cropping.
